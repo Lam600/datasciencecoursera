@@ -1,0 +1,34 @@
+Building Data Products
+========================================================
+author: L.R. Adrichem
+date: 28-04-2016
+autosize: true
+
+Oh god no..
+========================================================
+
+...they are here
+
+
+ZOMBIES
+========================================================
+
+Zombies everywhere
+
+
+Zombie Apocolyps Survival Calculator
+========================================================
+
+Use the Shiny app to calculate how long you will survive the Zombie Apocolyps
+
+You need to fill out your name and pick a weapon to take with you. Only then you will find out. Take care, and remember: go for the brains.
+
+
+Zombie Apocolyps Survival Calculator
+========================================================
+
+By the way, making a presentation like this works really nice. This reminds me that I should add some R code:
+
+```{r}
+1 > 2
+```
